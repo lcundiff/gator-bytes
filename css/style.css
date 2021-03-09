@@ -6253,5 +6253,8 @@ h1, h2, h3, h4, h5, h6 {
 .switch-wrap {
   margin-bottom: 10px;
 }
-
+.logo-sm {
+  height: 100px; 
+  margin-bottom:-15px;
+}
 /*# sourceMappingURL=style.css.map */
